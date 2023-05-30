@@ -1,6 +1,5 @@
-# tubes-jarkom
+#  Cara Menjalankan Server
 
-Cara Menjalankan Server:
 1. Download semua file
 2. Jalankan server.py melalui terminal atau compiler
 3. Server berhasil dijalankan
