@@ -3,6 +3,7 @@ import threading
 
 def handle_connection(connectionSocket):
     message = connectionSocket.recv(1024).decode()
+    print(message)
 
     # memparsing request dari client
     request_method = message.split()[0]
